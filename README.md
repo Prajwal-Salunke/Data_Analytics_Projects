@@ -24,6 +24,15 @@ This repository includes two insightful projects:
 ### 2. Weather Data Analysis 🌦️
 - **Objective:** Explore and analyze historical weather data to uncover seasonal patterns and trends.
 
+- **Techniques & Tools Used:**
+  - Data preprocessing (timestamp parsing, missing data handling)
+  - Statistical analysis and trend lines with `pandas` and `NumPy`
+  - Visualization: line plots, scatter plots, box plots
+  - Seasonal trend breakdown and correlation analysis
+
+---
+
+
 ## 🛠️ Technologies & Libraries
 - Python  
 - Pandas  
