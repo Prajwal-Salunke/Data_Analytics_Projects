@@ -61,5 +61,4 @@ This analysis includes:
 - `Weather_Data_Analysis/`
   - `weather_data_analysis.ipynb` – Main Jupyter notebook
   - `weather_data.csv` – Raw dataset
-  - `visuals/` – (Optional) Folder for saved charts and plots
   - `README.md` – Project documentation
