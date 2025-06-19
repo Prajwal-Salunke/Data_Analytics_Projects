@@ -61,3 +61,11 @@ The analysis includes:
 | Age Group Revenue      | **26–35 age group** were top spenders (~₹42.6M)                   |
 | Category Revenue       | Highest revenue from **Food**, followed by **Clothing** and **Electronics** |
 
+---
+## 📁 Folder Structure
+
+- `Diwali_Sales_Analysis/`
+  - `DiwaliSales.py` – Python script containing the main analysis
+  - `diwali_sales_data.csv` – Raw sales dataset
+  - `visuals/` – (Optional) Folder for saved plots and charts
+  - `README.md` – Project overview and documentation
